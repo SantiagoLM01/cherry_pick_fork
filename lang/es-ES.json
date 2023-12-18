@@ -1,0 +1,635 @@
+{
+  "navbar": {
+    "trading": {
+      "section-title": "Trading",
+      "account-types": "Tipos de Cuenta",
+      "instruments-spreads-and-rates": "Instrumentos, Diferenciales y Tasas",
+      "platform": "Plataforma",
+      "withdrawals-deposits": "Depositos y Retiros",
+      "trading-instruments": "Instrumentos de Trading",
+      "tools": "Herramientas",
+      "your-account": "Tu Cuenta",
+      "calculator": "Calculadora",
+      "journal": "Diario de Trading",
+      "spreads-rates": "Diferenciales y Tasas",
+      "shares": "Acciones",
+      "cryptocurrencies": "Criptomonedas",
+      "commodities-metals": "Productos y Metales",
+      "indices": "Índices",
+      "mt5": "MetaTrader 5",
+      "forex": "Forex"
+    },
+    "market": {
+      "section-title": "Mercado",
+      "economic-calendar": "Calendario Economico",
+      "daily-news": "Noticias diarias"
+    },
+    "academy": {
+      "section-title": "Academia",
+      "fxzio-academy": "Academia FXzio"
+    },
+    "partners": {
+      "section-title": "Socios",
+      "introducing-broker": "Introducción de Broker",
+      "affiliate": "Affiliado",
+      "fund-manager": "Gestor de Fondos"
+    },
+    "company": {
+      "section-title": "Compañia",
+      "about-us": "Acerca de",
+      "legal-documentation": "Documentacion Legal"
+    },
+    "support": {
+      "section-title": "Soporte",
+      "faq": "Preguntas Frecuentes",
+      "contact-us": "Contáctenos"
+    }
+  },
+  "globals": {
+    "subscribe": "Subscribete",
+    "create-account": "Crear Cuenta",
+    "start": "Empezar",
+    "phone-number": "Phone Number",
+    "sign-up": "Registro",
+    "sign-in": "Entrar",
+    "view-all": "Ver todas",
+    "view-more": "Ver Mas",
+    "legal1": "Los contratos por diferencia (CFD) y el comercio de margen implican un alto nivel de riesgo y no son adecuados para todos. Debe considerar cuidadosamente sus objetivos, situación financiera, necesidades y nivel de experiencia antes de realizar cualquier transacción con margen con FXzio, y buscar asesoramiento independiente si es necesario. Los CFDs son productos altamente apalancados, lo que significa que tanto las ganancias como las pérdidas aumentan. Sólo debe comercializar estos productos si comprende plenamente los riesgos que implican y puede permitirse el lujo de incurrir en pérdidas.\n",
+    "legal2": "FXzio Ltd, constituida en la República de las Islas Marshall (Reg. No. 11962). Nota: la República de las Islas Marshall no proporciona una licencia específica para ofrecer CFDs. Más bien, cada país en el que una persona comercia tiene un marco legal particular, que FXzio Ltd considera al aceptar clientes incorporados.",
+    "legal3": "La información de este sitio no está dirigida a residentes de los siguientes países: Estados Unidos, Canadá, Australia, Nueva Zelanda, Japón y otras jurisdicciones. No está destinada a ser distribuida ni utilizada por ninguna persona en ningún país o jurisdicción donde dicha su distribución o uso sería contrario a las leyes o regulaciones locales.",
+    "privacy": "Política de Privacidad",
+    "risk": "Aviso de Riesgo",
+    "terms": "Términos y Condiciones",
+    "location": "Ciudad de Panamá"
+  },
+  "common": {},
+  "sections": {
+    "legal-docs": {
+      "instance-1": {
+        "top-title": "Te recomendamos",
+        "main-title": "Leer cuidadosamente",
+        "button-text-1": "Política de privacidad",
+        "button-text-2": "Términos y condiciones del sitio web",
+        "button-text-3": "Política de prevención de lavado de dinero",
+        "button-text-4": "Divulgación de riesgos"
+      }
+    },
+    "hero-1": {
+      "instance-1": {
+        "main-title": "Un bróker hecho por traders para traders",
+        "content": "Entendemos tus desafíos, emociones y metas en el trading, y nuestro bróker ofrece condiciones ideales, educación y herramientas para impulsar tu éxito."
+      },
+      "instance-2": {
+        "main-title": "",
+        "content": ""
+      },
+      "instance-3": {
+        "main-title": "",
+        "content": ""
+      }
+    },
+    "features-1": {
+      "instance-1": {
+        "top-title": "Con nosotros puedes esperar",
+        "main-title": "Operaciones sin preocupaciones",
+        "main-content": "Enfócate en dominar los mercados y nosotros nos encargaremos del resto",
+        "drop-title-1": "Depósitos y retiros sin comisión",
+        "drop-content-1": "Disfruta de una experiencia de trading libre de tarifas adicionales.",
+        "drop-title-2": "Elige entre +400 instrumentos disponibles",
+        "drop-content-2": "Mejora tu estrategia obteniendo acceso a los mercados de Forex, Índices, Criptomonedas y Acciones. Amplía tus posibilidades y opera con confianza.",
+        "drop-title-3": "Únete a nuestra próspera comunidad de trading",
+        "drop-content-3": "Únete a una comunidad de traders apasionados. Comparte conocimientos, ideas y experiencias para impulsar tu éxito en el mundo del trading.",
+        "drop-title-4": "Ejecución instantánea rápida y precisa",
+        "drop-content-4": "Aprovecha la ejecución instantánea en cada operación. Opera con velocidad y precisión para aprovechar cada oportunidad del mercado."
+      },
+      "instance-2": {
+        "top-title": "",
+        "main-title": "",
+        "main-content": "",
+        "drop-title-1": "",
+        "drop-content-1": "",
+        "drop-title-2": "",
+        "drop-content-2": "",
+        "drop-title-3": "",
+        "drop-content-3": "",
+        "drop-title-4": "",
+        "drop-content-4": ""
+      }
+    },
+    "features-2": {
+      "instance-1": {
+        "top-title": "Éxito en el trading",
+        "main-title": "Para traders, por traders",
+        "main-content": "Enfócate en dominar los mercados y nosotros nos encargaremos del resto. Invierte sin preocuparte por comisiones en tu depósito.",
+        "card1-title": "Herramientas profesionales",
+        "card1-content": "Calculadora de riesgos, diario de trading, noticias en tiempo real y más. Todo a tu disposición para ayudarte a ser el mejor trader posible.",
+        "card2-title": "Condiciones óptimas",
+        "card2-content": "Spreads desde 0.0, transacciones sin comisiones, ejecuciones instantáneas y muchos más beneficios para asegurar que tu trading sea de primera categoría.",
+        "card3-title": "Aprende a leer el mercado",
+        "card3-content": "Únete a nuestra academia y aprende desde conceptos básicos hasta estrategias avanzadas de trading."
+      },
+      "instance-2": {
+        "top-title": "Éxito en el trading",
+        "main-title": "Para traders, de traders",
+        "content": "Enfócate en dominar los mercados y nosotros nos encargaremos del resto. Invierte sin preocuparte por comisiones en tu depósito. Disfruta de una experiencia de trading libre de comisiones.",
+        "card1-title": "Herramientas profesionales",
+        "card1-content": "Calculadora de riesgos, diario de trading, noticias en tiempo real y más. Todo a tu disposición para ayudarte a ser el mejor trader posible.",
+        "card2-title": "Condiciones óptimas",
+        "card2-content": "Spreads desde 0.0, transacciones sin comisiones, ejecuciones instantáneas y muchos más beneficios para asegurar que tu trading sea de primera categoría.",
+        "card3-title": "Aprende a leer el mercado",
+        "card3-content": "Únete a nuestra academia y aprende desde conceptos básicos hasta estrategias avanzadas de trading.",
+        "button-text": "Registrarse"
+      }
+    },
+    "features-2-variant": {
+      "instance-1": {
+        "top-title": "Si te estás preguntando",
+        "main-title": "Quién puede unirse a nuestro Programa de Afiliados",
+        "card1": "Creadores de contenido digital",
+        "card2": "Propietarios de sitios web de comparación",
+        "card3": "Influencers en redes sociales en el ámbito financiero",
+        "card4": "Propietarios de sitios web de noticias/mercados financieros",
+        "button-text": "Únete"
+      },
+      "instance-2": {
+        "top-title": "Beneficios de unirse como",
+        "main-title": "Gestor de Fondos Profesional",
+        "card1": "Acceso a software MAM/PAMM",
+        "card2": "Tarifas de rendimiento y comisión personalizadas",
+        "card3": "Potencial para mayor asignación de capital",
+        "card4": "Gerente de cuenta dedicado",
+        "button-text": "Únete"
+      }
+    },
+    "features-3": {},
+    "features-4": {
+      "instance-1": {
+        "top-title": "Aprende cómo MAM/PAMM",
+        "main-title": "Te ayuda a mantenerte adelante",
+        "feat1-title": "Múltiples subcuentas",
+        "feat1-content": "Administra fácilmente múltiples subcuentas utilizando una cuenta unificada.",
+        "feat2-title": "Trading con asesores expertos",
+        "feat2-content": "Mejora tu experiencia de trading utilizando asesores expertos para estrategias de trading automatizadas y dirigidas por expertos.",
+        "feat3-title": "Integración con MT5",
+        "feat3-content": "Intégrate perfectamente con la plataforma MT5 para una experiencia de trading fluida.",
+        "button-text": "Leer más"
+      },
+      "instance-2": {
+        "top-title": "Descubre las ventajas",
+        "main-title": "De usar nuestras herramientas",
+        "feat1-title": "Ejecución rápida y precisa",
+        "feat1-content": "Aprovecha la ejecución instantánea en cada operación para maximizar las oportunidades del mercado.",
+        "feat2-title": "Soporte multilingüe",
+        "feat2-content": "Ofrecemos asistencia en varios idiomas para una experiencia sin barreras.",
+        "feat3-title": "Seguridad de fondos",
+        "feat3-content": "Tus fondos están seguros con medidas de seguridad de primer nivel.",
+        "button-text": "Leer más"
+      }
+    },
+    "features-5": {
+      "instance-1": {
+        "top-title": "Beneficios de unirse a nuestro",
+        "main-title": "Programa de Afiliados",
+        "content": "Unirse a nuestro Programa de Afiliados abre las puertas a un mundo de oportunidades y ventajas diseñadas para impulsar tu camino en el marketing de afiliados. Como parte de nuestro programa de afiliados, disfrutarás de numerosos beneficios que se adaptan a tu crecimiento y éxito.",
+        "feat-1-title": "Altas tasas de conversión",
+        "feat-2-title": "Reportes en tiempo real",
+        "feat-3-title": "Pagos sin complicaciones",
+        "feat-4-title": "Herramientas de marketing avanzadas",
+        "feat-8-title": "Páginas de aterrizaje co-brandeadas",
+        "feat-5-title": "Regulado en múltiples jurisdicciones",
+        "feat-6-title": "Acceso a MetaTrader 5",
+        "feat-7-title": "Especialista en conversión",
+        "feat-1-content": "Nuestros servicios cuentan con tasas de conversión garantizadas, asegurando que tus esfuerzos obtengan resultados exitosos.",
+        "feat-2-content": "Mantente completamente informado sobre tu desempeño y estrategias de trading con precisión y claridad.",
+        "feat-3-content": "Experimenta pagos rápidos y sin complicaciones y accede a tus ganancias con un mínimo de inconvenientes.",
+        "feat-4-content": "Te equipamos con una ventaja competitiva para llegar y comprometer efectivamente a tu audiencia objetivo.",
+        "feat-8-content": "Mejora tu estrategia de marketing con presencias web personalizadas creadas en colaboración con nuestra plataforma.",
+        "feat-5-content": "Asegura el cumplimiento con varias autoridades reguladoras para mejorar la seguridad de tus operaciones.",
+        "feat-6-content": "Accede a la plataforma de trading más popular del mundo y a un entorno ideal para operaciones exitosas.",
+        "feat-7-content": "Asocíate con un especialista en conversión dedicado que proporcionará asistencia y orientación personalizadas."
+      }
+    },
+    "features-6": {
+      "instance-1": {
+        "top-title": "Beneficios de unirse como",
+        "main-title": "Introducing Broker",
+        "content": "Ofrecemos una estructura de comisiones personalizada diseñada para apoyar tu crecimiento y ayudarte a ganar con cada cliente que refieras.",
+        "feat-1": "Aprovecha la ventaja de los reembolsos de por vida que te ofrecen una oportunidad notable de recuperar hasta el 60% de los ingresos por spread que generes durante tu viaje de trading.",
+        "feat-2": "Experimenta la conveniencia y la confianza del monitoreo y seguimiento en tiempo real que proporciona nuestra plataforma. Toma decisiones bien informadas mientras navegas.",
+        "feat-3": "Presenta a tus clientes una amplia gama de instrumentos de trading, ofreciéndoles acceso a docenas de activos financieros para estrategias de trading diversificadas y personalizadas.",
+        "feat-4": "Benefíciate de la galardonada plataforma de trading MetaTrader, conocida por sus características excepcionales, interfaz fácil de usar y herramientas completas.",
+        "feat-5": "Accede a soporte de marketing y promoción para impulsar tu marca y llegar a una audiencia más amplia, mejorando la visibilidad y el potencial de crecimiento de tu negocio.",
+        "feat-6": "Trabaja estrechamente con un especialista en conversión dedicado que proporcionará asistencia y orientación personalizadas para optimizar tus estrategias de conversión."
+      }
+    },
+    "features-7": {
+      "instance-1": {
+        "top-title": "Descubre lo que nos diferencia",
+        "main-title": "Domina los mercados",
+        "content": "Benefíciate de nuestro programa, creado por traders experimentados, para equiparte con la experiencia requerida para operar con confianza en todos los niveles de habilidad."
+      },
+      "instance-2": {
+        "top-title": "Tu poderosa herramienta de trading",
+        "main-title": "FXzio Metatrader 5",
+        "content": "MetaTrader 5 o MT5, es una plataforma de trading de última generación, que ofrece una mayor flexibilidad, características mejoradas de EA y funcionalidades de prueba, analíticas y de trading más completas."
+      }
+    },
+    "features-8": {
+      "instance-1": {
+        "top-title": "FXzio es un",
+        "main-title": "Broker creado por traders para traders",
+        "content": "Más allá de un mero eslogan, es una declaración de propósito. FXzio surgió de la pasión colectiva de traders experimentados, impulsados por el desafío de ofrecer un entorno de trading integral. Estamos dedicados a superar las expectativas en todos los aspectos de la experiencia de trading, desde el servicio al cliente y la educación hasta la gestión del riesgo y el acceso a herramientas de trading esenciales."
+      }
+    },
+    "features-9": {
+      "instance-1": {
+        "top-title": "Si te preguntas",
+        "main-title": "¿Por qué MetaTrader 5?",
+        "content": "MetaTrader 5 es la última plataforma de Metaquotes dirigida a traders que buscan características de vanguardia. La plataforma viene con muchas ventajas adicionales, incluyendo 21 marcos temporales, 6 tipos de órdenes pendientes, opciones de cobertura y compensación y probador de estrategias multi-hilo para EAs.",
+        "button-text": "Pruébalo"
+      }
+    },
+
+    "CTA-1": {
+      "instance-1": {
+        "top-title": "Regístrate ahora",
+        "main-title": "Únete a nosotros y comienza a operar",
+        "content": "¡Únete a una comunidad de traders apasionados y comienza a operar con condiciones ideales para maximizar tu éxito!",
+        "button-text": "Registrarse"
+      },
+      "instance-2": {
+        "top-title": "",
+        "main-title": "",
+        "content": "",
+        "button-text": ""
+      },
+      "instance-3": {
+        "top-title": "",
+        "main-title": "",
+        "content": ""
+      }
+    },
+    "CTA-2": {},
+    "CTA-3": {},
+    "CTA-4": {},
+    "CTA-4-Variant": {
+      "instance-1": {
+        "top-title": "Optimiza tu",
+        "main-title": "Experiencia de Trading",
+        "content": "Descubre la clave para el éxito en el trading con nuestro análisis completo de spreads competitivos y tasas. Comienza tu camino hacia el éxito financiero hoy mismo.",
+        "button-text": "Comenzar"
+      }
+    },
+    "academy-1": {},
+    "academy-2": {
+      "instance-1": {
+        "top-title": "Únete hoy a la",
+        "main-title": "Academia de Trading FXzio",
+        "feat-1": "Aprende de 8 años de experiencia en trading para reducir tu curva de aprendizaje.",
+        "feat-2": "Estrategias simplificadas de trading y gestión de riesgos para un aprendizaje fácil.",
+        "feat-3": "Una comunidad de trading donde compartimos nuestros análisis y revisamos nuestras operaciones.",
+        "feat-4": "Totalmente gratuito con acceso directo para todos.",
+        "button-text": "Ir a la Academia"
+      },
+      "instance-2": {
+        "top-title": "",
+        "main-title": "",
+        "feat-1": "",
+        "feat-2": "",
+        "feat-3": "",
+        "feat-4": ""
+      },
+      "instance-3": {
+        "top-title": "",
+        "main-title": "",
+        "feat-1": "",
+        "feat-2": "",
+        "feat-3": "",
+        "feat-4": ""
+      }
+    },
+    "academy-2-new": {
+      "instance-1": {
+        "top-title": "Academia de Trading",
+        "main-title": "Tu clave hacia el éxito",
+        "card1-title": "Conocimiento de A a Z",
+        "card2-title": "Videos concisos y completos",
+        "card3-title": "Estrategias fáciles de seguir",
+        "card1-content": "Desde lo básico hasta temas avanzados para prepararte para los mercados.",
+        "card2-content": "Videos cortos con información directa para acelerar tu aprendizaje.",
+        "card3-content": "Simples y con pasos exactos, eliminando dudas sobre la ejecución."
+      }
+    },
+    "coming-soon": {
+      "instance-1": {
+        "main-title": "Próximamente",
+        "sub-title": "Eleva tu juego de trading con nosotros",
+        "content": "Mantente atento a nuestra innovadora plataforma de corretaje."
+      }
+    },
+    "step-process-1": {},
+    "step-process-1-variant": {
+      "instance-1": {
+        "top-title": "Elige tu cuenta en",
+        "main-title": "3 simples pasos",
+        "card1-title": "Encuentra tu estilo",
+        "card1-content": "¿Cuál es tu estilo de trading? ¿Eres scalper, intradía, swing trading o position trading?",
+        "card2-title": "Selecciona tus beneficios",
+        "card2-content": "¿Qué beneficios se adaptan más a tu trading? ¿Spreads ultra bajos, swap free o comisiones de $0?",
+        "card3-title": "Comienza a operar",
+        "card3-content": "Abre tu cuenta en FXzio y aprovecha las condiciones óptimas para tu éxito."
+      },
+      "instance-2": {
+        "top-title": "Cómo convertirte en",
+        "main-title": "Broker Asociado con nosotros",
+        "card1-title": "Regístrate",
+        "card1-content": "Da el primer paso en tu viaje de trading creando una cuenta en FXzio y accediendo a un mundo de oportunidades de trading.",
+        "card2-title": "Refiere",
+        "card2-content": "Amplía tu red de trading y aumenta tus ganancias invitando a contactos a unirse a FXzio utilizando tu enlace de referencia personalizado.",
+        "card3-title": "Gana",
+        "card3-content": "A medida que tus clientes se registren e inicien sus actividades de trading en FXzio, tienes la oportunidad de ganar reembolsos, mejorando tus ganancias totales."
+      },
+      "instance-3": {
+        "top-title": "",
+        "main-title": "",
+        "card1-title": "",
+        "card1-content": "",
+        "card2-title": "",
+        "card2-content": "",
+        "card3-title": "",
+        "card3-content": ""
+      }
+    },
+    "instruments": {
+      "tabs": {
+        "overview": "General",
+        "forex": "Forex",
+        "shares": "Acciones",
+        "crypto": "Crypto",
+        "commodities": "Materias Primas",
+        "indices": "Indices"
+      },
+      "table1": {
+        "subtabs": {
+          "majors": "Mayores",
+          "minors": "Menores",
+          "exotics": "Exóticos"
+        },
+        "trade": "Operar",
+        "trading-instrument": "Instrumento de Trading",
+        "spread-pt": "Spread PT",
+        "link":""
+      },
+      "table2": {
+        "symbol": "Símbolo",
+        "name": "Nombre",
+        "min-spreads": "Min. Spread",
+        "typical-spreads": "Spreads Típicos",
+        "swap-short": "Swap Corto",
+        "swap-long": "Swap Largo",
+        "trading-hours": "Horario de Trading"
+
+      },
+      "table3": {
+        "symbol": "Símbolo",
+        "name": "Nombre",
+        "trading-hours": "Horario de Trading"
+      }
+    },
+    "step-process-2": {
+      "instance-1": {
+        "top-title": "Crea tu cuenta y",
+        "main-title": "Comienza a operar en 3 simples pasos",
+        "step-1": "Registrarse",
+        "step-2": "Depositar",
+        "step-3": "Operar"
+      },
+      "instance-2": {
+        "top-title": "Crea tu cuenta y",
+        "main-title": "Comienza a operar en 3 simples pasos",
+        "step-1": "Registrarse",
+        "step-2": "Depositar",
+        "step-3": "Operar"
+      },
+      "instance-3": {
+        "top-title": "",
+        "main-title": "",
+        "step-1": "",
+        "step-2": "",
+        "step-3": ""
+      }
+    },
+    "header-1": {
+      "instance-1": {
+        "main-title": "Elige tu cuenta",
+        "content": "Con una selección de cuentas Estándar, de Spreads Bajos y ECN, cada opción está meticulosamente diseñada para adaptarse a tus preferencias comerciales únicas."
+      },
+      "instance-2": {
+        "main-title": "Nuestra Plataforma",
+        "content": "Entendemos tus desafíos, emociones y metas comerciales, y nuestro broker ofrece condiciones ideales, educación y herramientas para impulsar tu éxito comercial."
+      },
+      "instance-3": {
+        "main-title": "Conoce FXzio",
+        "content": "Como grupo de traders, estamos en una misión, proporcionar las mejores condiciones que un broker puede ofrecer a sus clientes."
+      },
+      "instance-4": {
+        "main-title": "Nuestros documentos legales",
+        "content": "Entendemos tus desafíos comerciales, emociones y metas, y nuestro broker ofrece condiciones ideales, educación y herramientas para impulsar tu éxito comercial."
+      },
+      "instance-5": {
+        "main-title": "Contáctanos",
+        "content": "Entendemos tus desafíos comerciales, emociones y metas, y nuestro broker ofrece condiciones ideales."
+      }
+    },
+    "header-2": {
+      "instance-1": {
+        "main-title": "Monetiza tu red",
+        "sub-title": "Al convertirte en un Socio Presentador con FXzio Partners",
+        "content": "Aprovecha los planes de comisión multinivel y gana reembolsos de ingresos por spread por cada cliente que refieras.",
+        "button-text": "¡Comienza como un SP!",
+        "form-title": "¿Necesitas ayuda para convertirte en un Socio de FXzio?"
+      },
+      "instance-2": {
+        "main-title": "Gana mucho con nuestro Programa de Afiliados",
+        "sub-title": "",
+        "content": "Únete al programa de afiliados de FXzio y gana CPA de hasta $1,000",
+        "button-text": "¡Completa el formulario para comenzar!",
+        "form-title": "¿Necesitas ayuda para convertirte en un Afiliado de FXzio?"
+      },
+      "instance-3": {
+        "main-title": "Haz crecer tu negocio como Gestor de Fondos",
+        "sub-title": "con FXzio Partners",
+        "content": "Ya sea que seas principiante en la gestión de fondos o tengas décadas de experiencia, nuestro software MAM/PAMM está diseñado para cualquiera interesado en gestionar fondos y obtener ganancias significativas.",
+        "button-text": "¡Completa el formulario para comenzar!",
+        "form-title": "¿Necesitas ayuda para convertirte en un Gestor de Fondos de FXzio?"
+      }
+    },
+    "header-3": {
+      "instance-1": {
+        "main-title": "Entrada fácil, salida fácil",
+        "sub-title": "Administra tus fondos con facilidad y confianza",
+        "content": "Nuestro compromiso con tu tranquilidad financiera significa que puedes concentrarte en lo que realmente importa: tu éxito comercial."
+      },
+      "instance-2": {
+        "main-title": "Spreads y Tarifas",
+        "sub-title": "Explora la fijación de precios de instrumentos",
+        "content": "Obtén información sobre los spreads y tarifas de nuestros instrumentos: esta tabla sirve como referencia; para precios en tiempo real, consulta nuestra plataforma MT5"
+      }
+    },
+    "header-4": {},
+    "deposits": {
+      "instance-1": {
+        "main-title": "Realizar un depósito",
+        "content": "Te ofrecemos una variedad de opciones de pago confiables para elegir, asegurando que tus fondos se transfieran de manera rápida y segura.",
+        "table1": {
+          "method": "Método",
+          "availability": "Disponibilidad",
+          "currencies": "Monedas",
+          "minimum-deposit": "Min. Depósito",
+          "maximum-deposit": "Max. Depósito",
+          "processing-time": "Tiempo de procesamiento",
+          "fees": "Tarifas",
+          "trade": "Operar"
+        }
+      }
+    },
+    "withdrawals": {
+      "instance-1": {
+        "main-title": "Realizar un retiro",
+        "content": "Los retiros deberían ser tan fáciles como obtener ganancias. Entendemos la importancia de un acceso rápido y seguro a tus fondos.",
+        "table1": {
+          "method": "Método",
+          "availability": "Disponibilidad",
+          "currencies": "Monedas",
+          "minimum-deposit": "Min. Retiro",
+          "maximum-deposit": "Max. Retiro",
+          "processing-time": "Tiempo de procesamiento",
+          "fees": "Tarifas",
+          "trade": "Operar"
+        }
+      }
+    },
+    "FAQ-1": {
+      "instance-1": {
+        "top-title": "¿Curioso?",
+        "main-title": "Estamos listos con soluciones",
+        "main-content": "Explora nuestra completa sección de preguntas frecuentes para encontrar respuestas a consultas comunes sobre nuestros servicios, productos y plataforma de trading. Si tienes una pregunta, es probable que encuentres la respuesta aquí.",
+        "Q1": "¿Cómo solicito una cuenta en FXZIO y cuáles son los requisitos?",
+        "AQ1": "Para abrir una cuenta real, se deben cumplir ciertos requisitos generales. Los solicitantes deben ser mayores de edad, es decir, tener 18 años o más al momento de la solicitud. Además, deben tener un número de teléfono móvil operativo y una dirección de correo electrónico válida. Se necesita un pasaporte emitido por el gobierno o una identificación con foto, junto con una dirección residencial legal. En algunos casos, el cumplimiento puede solicitar documentación adicional para verificación.",
+        "Q2": "¿Cuánto tiempo se tarda en configurar una cuenta?",
+        "AQ2": "Configurar una cuenta demo es rápido, toma solo unos minutos sin necesidad de enviar documentos. Para cuentas reales, la aplicación generalmente lleva de 2 a 5 minutos. La verificación suele requerir alrededor de 3 minutos, pero puede tomar más tiempo si se necesita información adicional o si los documentos presentados son inválidos.",
+        "Q3": "¿Puedo abrir más de una cuenta real?",
+        "AQ3": "Absolutamente, puedes crear hasta 10 cuentas de trading en vivo, con un límite de 5 cuentas por plataforma MT5. Cada cuenta pasará por su propio proceso de verificación de documentos y requerirá aprobación individual. Si necesitas más de 10 cuentas, comunícate con tu gestor de cuenta o contáctanos a través de chat en vivo o correo electrónico a {email}",
+        "Q4": "¿Cómo se mantienen mis fondos con FXzio?",
+        "AQ4": "Los fondos de los clientes se mantienen de forma segura en instalaciones bancarias dedicadas, específicamente designadas para clientes de FXzio. Estos fondos se mantienen en cuentas bancarias separadas, siguiendo nuestros estrictos protocolos internos diseñados de acuerdo con las mejores prácticas de la industria. Se realiza una conciliación diaria para mantener la precisión y estos fondos nunca se utilizan con fines operativos. Además, nos sometemos a auditorías externas anuales para garantizar transparencia y cumplimiento. Para obtener información detallada, consulta nuestra página de Documentación Legal.",
+        "button-text": "Ir a FAQ"
+      },
+      "instance-2": {
+        "top-title": "¿Preguntas?",
+        "main-title": "Tenemos respuestas",
+        "main-content": "Explora nuestra completa sección de preguntas frecuentes para encontrar respuestas a consultas comunes sobre nuestros servicios, productos y plataforma de trading. Si tienes una pregunta, es probable que encuentres la respuesta aquí.",
+        "Q1": "¿Cómo solicito una cuenta con FXZIO y cuáles son los requisitos?",
+        "AQ1": "Para abrir una cuenta real, se deben cumplir ciertos requisitos generales. Los solicitantes deben ser mayores de edad, es decir, tener 18 años o más al momento de la solicitud. Además, deben tener un número de teléfono móvil operativo y una dirección de correo electrónico válida. Se necesita un pasaporte emitido por el gobierno o una identificación con foto, junto con una dirección residencial legal. En algunos casos, el cumplimiento puede solicitar documentación adicional para verificación.",
+        "Q2": "¿Cuánto tiempo se tarda en configurar una cuenta?",
+        "AQ2": "Configurar una cuenta demo es rápido, toma solo unos minutos sin necesidad de enviar documentos. Para cuentas reales, la aplicación generalmente lleva de 2 a 5 minutos. La verificación suele requerir alrededor de 3 minutos, pero puede tomar más tiempo si se necesita información adicional o si los documentos presentados son inválidos.",
+        "Q3": "¿Puedo abrir más de una cuenta real?",
+        "AQ3": "Absolutamente, puedes crear hasta 10 cuentas de trading en vivo, con un límite de 5 cuentas por plataforma MT5. Cada cuenta pasará por su propio proceso de verificación de documentos y requerirá aprobación individual. Si necesitas más de 10 cuentas, comunícate con tu gestor de cuenta o contáctanos a través de chat en vivo o correo electrónico a support{'@'}fxzio.com",
+        "Q4": "¿Cómo se mantienen mis fondos con FXzio?",
+        "AQ4": "Los fondos de los clientes se mantienen de forma segura en instalaciones bancarias dedicadas, específicamente designadas para clientes de FXzio. Estos fondos se mantienen en cuentas bancarias separadas, siguiendo nuestros estrictos protocolos internos diseñados de acuerdo con las mejores prácticas de la industria. Se realiza una conciliación diaria para mantener la precisión y estos fondos nunca se utilizan con fines operativos. Además, nos sometemos a auditorías externas anuales para garantizar transparencia y cumplimiento. Para obtener información detallada, consulta nuestra página de Documentación Legal.",
+        "button-text": "Ir a FAQ"
+      },
+      "instance-3": {
+        "top-title": "¿Preguntas?",
+        "main-title": "Tenemos respuestas",
+        "main-content": "",
+        "Q1": "¿Cómo solicito una cuenta en FXZIO y cuáles son los requisitos?",
+        "AQ1": "Para abrir una cuenta real, se deben cumplir ciertos requisitos generales. Los solicitantes deben ser mayores de edad, es decir, tener 18 años o más al momento de la solicitud. Además, deben tener un número de teléfono móvil operativo y una dirección de correo electrónico válida. Se necesita un pasaporte emitido por el gobierno o una identificación con foto, junto con una dirección residencial legal. En algunos casos, el cumplimiento puede solicitar documentación adicional para verificación.",
+        "Q2": "¿Cuánto tiempo se tarda en configurar una cuenta?",
+        "AQ2": "Configurar una cuenta demo es rápido, toma solo unos minutos sin necesidad de enviar documentos. Para cuentas reales, la aplicación generalmente lleva de 2 a 5 minutos. La verificación suele requerir alrededor de 3 minutos, pero puede tomar más tiempo si se necesita información adicional o si los documentos presentados son inválidos.",
+        "Q3": "¿Puedo abrir más de una cuenta real?",
+        "AQ3": "Absolutamente, puedes crear hasta 10 cuentas de trading en vivo, con un límite de 5 cuentas por plataforma MT5. Cada cuenta pasará por su propio proceso de verificación de documentos y requerirá aprobación individual. Si necesitas más de 10 cuentas, comunícate con tu gestor de cuenta o contáctanos a través de chat en vivo o correo electrónico a {email}",
+        "Q4": "¿Cómo se mantienen mis fondos con FXzio?",
+        "AQ4": "Los fondos de los clientes se mantienen de forma segura en instalaciones bancarias dedicadas, específicamente designadas para clientes de FXzio. Estos fondos se mantienen en cuentas bancarias separadas, siguiendo nuestros estrictos protocolos internos diseñados de acuerdo con las mejores prácticas de la industria. Se realiza una conciliación diaria para mantener la precisión y estos fondos nunca se utilizan con fines operativos. Además, nos sometemos a auditorías externas anuales para garantizar transparencia y cumplimiento. Para obtener información detallada, consulta nuestra página de Documentación Legal.",
+        "button-text": "Ir a FAQ"
+      }
+    },
+    "book-call": {
+      "instance-1": {
+        "title": "Comienza a ganar comisiones hoy con FXzio Partners"
+      }
+    },
+    "people-cards": {
+      "instance-1": {
+        "top-title": "Conoce al",
+        "main-title": "Equipo de FXzio",
+        "content": "Explora los perfiles de nuestros apasionados y experimentados miembros del equipo, dedicados a tu éxito. Conoce su experiencia, compromiso y las contribuciones únicas que aportan a nuestra comunidad de trading."
+      }
+    },
+    "knowledge": {
+      "instance-1": {
+        "top-title": "Despeja tus dudas en nuestra",
+        "main-title": "Base de Conocimiento",
+        "card1-title": "Abrir una cuenta",
+        "card1-content": "¿Cómo solicito una cuenta en FXzio y cuáles son los requisitos?",
+        "card2-title": "Portal del Cliente",
+        "card2-content": "Aprende a navegar por el Portal del Cliente de FXzio. El lugar para gestionar tu cuenta.",
+        "card3-title": "General",
+        "card3-content": "Todo sobre FXzio. Aprende sobre la oferta de productos de FXzio, el apalancamiento..",
+        "card4-title": "Depósitos",
+        "card4-content": "¿Puedo depositar a través de un tercero? ¿Cuáles son los métodos de depósito? ",
+        "card5-title": "Retiros",
+        "card5-content": "Cómo retirar tus fondos. ¿Cómo puedo retirar mis fondos de regreso a mi tarjeta?",
+        "card6-title": "Cuentas y Tarifas",
+        "card6-content": "¿Qué apalancamiento puedo seleccionar para mi cuenta? ¿Puedo cambiar la moneda?",
+        "card7-title": "Guías de MT5",
+        "card7-content": "Iniciar sesión en MT5 en PC/Mac. Instalar MT5 en Mac. Instalar MT5 en Windows",
+        "card8-title": "Solución de Problemas",
+        "card8-content": "Problemas de inicio de sesión de MT5. Problemas de Lag",
+        "card9-title": "Asociaciones",
+        "card9-content": "Registrarse para convertirse en un Bróker de Introducción o Afiliado. ¿Qué significan??"
+      }
+    },
+    "contact-options-1": {
+      "instance-1": {
+        "top-title": "Siéntete libre de",
+        "main-title": "Contactarnos",
+        "card1": "Chat en vivo",
+        "card2": "Telegram",
+        "card3": "Correo electrónico"
+      }
+    },
+    "partners-1": {
+      "instance-1": {
+        "top-title": "Emprende el viaje para",
+        "main-title": "Convertirte en Socio de FXzio",
+        "card1-top-title": "Conviértete en un",
+        "card1-title": "Broker Presentador",
+        "card2-top-title": "Únete a nuestro",
+        "card2-title": "Programa de Afiliados",
+        "card3-top-title": "Avanza como un",
+        "card3-title": "Gestor de Fondos"
+      }
+    }
+  },
+  "titles": {
+    "contact-us": "Contáctenos",
+    "legal-documentation": "Documentación Legal",
+    "academy": "Academia",
+    "introducing-broker": "Introducing Broker",
+    "mt5": "MetaTrader 5",
+    "account-types": "Tipos de Cuenta",
+    "spreads-and-rates": "Spreads y Tasas",
+    "withdrawals-and-deposits": "Retiros y Depósitos",
+    "affiliate": "Afiliado",
+    "fund-manager": "Gestor de Fondos",
+    "about-us": "Acerca de nosotros",
+    "sign-in": "Iniciar Sesión",
+    "password-reset-request": "Restablecimiento de Contraseña",
+    "password-reset": "Introduzca nueva contraseña - Restablecimiento de contraseña",
+    "sign-up": "Registrarse",
+    "calculator": "Calculadora",
+    "journal": "Diario de Trading",
+    "daily-news": "Noticias Diarias",
+    "economic-calendar": "Calendario Económico"
+  }
+}
